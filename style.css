@@ -1,13 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
 
-::-webkit-scrollbar {
-    width: 8px;
-}
 
-::-webkit-scrollbar-thumb {
-    background: #39a6f0;
-    border-radius: 4px;
-}
 
 * {
     margin: 0;
