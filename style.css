@@ -32,6 +32,8 @@ body.dark-mode {
 }
 
 .wrapper {
+    max-width: 400px;
+    margin: 0 auto;
     position: relative;
     height: 100vh;
     width: 100%;
@@ -42,7 +44,7 @@ body.dark-mode {
 
 @media (min-width:768px) {
     .wrapper {
-        height: 50rem;
+        height: 90vh;
         width: 25rem;
         border-radius: 40px;
         border: 10px solid #2e2e2e;
