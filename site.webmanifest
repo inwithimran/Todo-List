@@ -2,7 +2,7 @@
   "name": "ToDo List - iCraft",
   "short_name": "iCraft ToDo",
   "description": "Manage your tasks effortlessly with our Todos List App.",
-  "start_url": "/index.html",
+  "start_url": "/Todo-List",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#39a6f0",
